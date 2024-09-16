@@ -4,7 +4,16 @@
   margin: 20px;
 }
 
+
 .title{
+  border: 4px double red;
+  backgroug-color: #82ccfa;
+  color: #f22731;
+  padding: 5px;
+  text-alingn: center;
+}
+
+h1{
   border: 2px solid red;
   background-color: #dff7f4;
   color: #f22731;
