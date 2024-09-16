@@ -2,21 +2,55 @@
   background-color: #e1edad;
   font-family: "Georgia", sans-serif, serif;
   margin: 20px;
+  margin-top: 10px;
 }
 
 
 .title{
   border: 4px double red;
-  backgroug-color: #82ccfa;
+  background-color: #82ccfa;
   color: #f22731;
   padding: 5px;
-  text-alingn: center;
+  text-align: center;
+  font-size: xx-large;
+  font-weight: bold;
+  padding-bottom: 10px;
 }
+
+.links{
+  border: 1px solid black;
+  color: #f22731;
+  padding: 5px;
+  background-color: aquamarine;
+}
+
+.links ul{
+  background-color: aquamarine;
+  text-decoration: none;
+}
+
+.links ul li{
+  background-color: aquamarine;
+  text-decoration: none;
+}
+
+.links ul li a{
+  background-color: aquamarine;
+  text-decoration: none;
+  color: red;
+}
+
+.links ul li a:hover{
+  background-color: #ffae21;
+  color: white;
+  font-weight: bold;
+}
+
 
 h1{
   border: 2px solid red;
   background-color: #dff7f4;
   color: #f22731;
   padding: 5px;
-  alingn-items: center;
+  text-align: center;
 }
