@@ -3,3 +3,11 @@
   font-family: "Georgia", sans-serif, serif;
   margin: 20px;
 }
+
+h1{
+  border: 2px solid red;
+  background-color: #dff7f4;
+  color: #f22731;
+  padding: 5px;
+  alingn-items: center;
+}
